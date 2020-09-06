@@ -13,8 +13,8 @@
 ``` https://bobble-frontend.herokuapp.com/  ```
 
 # Description
-* A signup feature implementation.
-* Data is passed throught to the reqres.in API for authentication
+* A signup feature implementation using Vue.JS
+* Data is passed through to the reqres.in API for authentication
 * If the data is authenticated, the next page renders with a few details.
 * If the data fails authentication, an message "Retry again" appears with the reason.
 
